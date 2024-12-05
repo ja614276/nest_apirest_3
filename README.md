@@ -72,7 +72,7 @@ Realiza una petición PUT a /products/:id para modificar un producto específico
 Realiza una petición DELETE a /products/:id para eliminar un producto.
 ```
 
-### Tecnología
+### Tecnología y Herramientas
 
 ```bash
 NestJS: Framework para Node.js basado en TypeScript.
