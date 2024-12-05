@@ -68,6 +68,7 @@ Puedes usar Postman o cualquier cliente de API para probar las rutas mencionadas
 Realiza una petición POST a /products para agregar un producto.
 Realiza una petición GET a /products para ver todos los productos.
 Realiza una petición GET a /products/:id para ver un producto específico.
+Realiza una petición PUT a /products/:id para modificar un producto específico.
 Realiza una petición DELETE a /products/:id para eliminar un producto.
 ```
 
