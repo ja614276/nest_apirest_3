@@ -25,13 +25,16 @@ cd nest_apirest_3
 
 Instala las dependencias del proyecto utilizando npm:
 
-
+```bash
 npm install
+```
 
 ### 3. Configurar la base de datos
 Asegúrate de tener una base de datos MySQL en funcionamiento. Crea una base de datos llamada nest_db_13 (o el nombre que prefieras) en MySQL:
 
+```bash
 CREATE DATABASE nest_db_13;
+```
 
 ### 4. Configurar las credenciales de la base de datos
 Abre el archivo src/app.module.ts y asegúrate de que las credenciales de tu base de datos MySQL estén correctas en la configuración de TypeORM:
